@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://fernandes.arq.br/wp-content/uploads/2018/07/814d3316a498ce2419ed8bdf04df8e91.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,8 +19,8 @@
     { 
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Estadio centenario",
-      "imagem": "TODO"
+      "nome": "Estadio centenário",
+      "imagem": "https://arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/5ZJ3PKZHPJDSRBCSQGDHAOWA2Y.jpg"
     },
     "mandante": {
       "nome": "Argentina",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://fernandes.arq.br/wp-content/uploads/2018/07/814d3316a498ce2419ed8bdf04df8e91.jpg"
     },
     "mandante": {
       "nome": "EUA",
